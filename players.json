@@ -1,0 +1,3710 @@
+[
+  {
+    "name": "Brett Hundley",
+    "team": "CARDINALS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Kyler Murray",
+    "team": "CARDINALS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Matt Ryan",
+    "team": "FALCONS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Matt Schaub",
+    "team": "FALCONS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Robert Griffin",
+    "team": "RAVENS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Lamar Jackson",
+    "team": "RAVENS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Trace McSorley",
+    "team": "RAVENS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Josh Allen",
+    "team": "BILLS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Matt Barkley",
+    "team": "BILLS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Kyle Allen",
+    "team": "PANTHERS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Will Grier",
+    "team": "PANTHERS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Cam Newton",
+    "team": "PANTHERS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Chase Daniel",
+    "team": "BEARS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Mitchell Trubisky",
+    "team": "BEARS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Andy Dalton",
+    "team": "BENGALS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Ryan Finley",
+    "team": "BENGALS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Garrett Gilbert",
+    "team": "BROWNS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Baker Mayfield",
+    "team": "BROWNS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Dak Prescott",
+    "team": "COWBOYS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Cooper Rush",
+    "team": "COWBOYS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Brandon Allen",
+    "team": "BRONCOS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Joe Flacco",
+    "team": "BRONCOS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Drew Lock",
+    "team": "BRONCOS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "David Blough",
+    "team": "LIONS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Jeff Driskel",
+    "team": "LIONS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Matthew Stafford",
+    "team": "LIONS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Tim Boyle",
+    "team": "PACKERS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Aaron Rodgers",
+    "team": "PACKERS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "A. J. McCarron",
+    "team": "TEXANS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Deshaun Watson",
+    "team": "TEXANS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Jacoby Brissett",
+    "team": "COLTS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Brian Hoyer",
+    "team": "COLTS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Joshua Dobbs",
+    "team": "JAGUARS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Nick Foles",
+    "team": "JAGUARS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Gardner Minshew",
+    "team": "JAGUARS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Patrick Mahomes",
+    "team": "CHIEFS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Matt Moore",
+    "team": "CHIEFS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Philip Rivers",
+    "team": "CHARGERS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Tyrod Taylor",
+    "team": "CHARGERS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Blake Bortles",
+    "team": "RAMS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Jared Goff",
+    "team": "RAMS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Ryan Fitzpatrick",
+    "team": "DOLPHINS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Josh Rosen",
+    "team": "DOLPHINS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Kirk Cousins",
+    "team": "VIKINGS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Sean Mannion",
+    "team": "VIKINGS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Tom Brady",
+    "team": "PATRIOTS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Jarrett Stidham",
+    "team": "PATRIOTS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Drew Brees",
+    "team": "SAINTS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Teddy Bridgewater",
+    "team": "SAINTS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Taysom Hill",
+    "team": "SAINTS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Daniel Jones",
+    "team": "GIANTS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Eli Manning",
+    "team": "GIANTS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Alex Tanney",
+    "team": "GIANTS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Sam Darnold",
+    "team": "JETS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "David Fales",
+    "team": "JETS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Luke Falk",
+    "team": "JETS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Trevor Siemian",
+    "team": "JETS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Derek Carr",
+    "team": "RAIDERS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Mike Glennon",
+    "team": "RAIDERS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Josh McCown",
+    "team": "EAGLES",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Carson Wentz",
+    "team": "EAGLES",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Devlin Hodges",
+    "team": "STEELERS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Ben Roethlisberger",
+    "team": "STEELERS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Mason Rudolph",
+    "team": "STEELERS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Jimmy Garoppolo",
+    "team": "49ERS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Nick Mullens",
+    "team": "49ERS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Russell Wilson",
+    "team": "SEAHAWKS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Ryan Griffin",
+    "team": "BUCCANEERS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Jameis Winston",
+    "team": "BUCCANEERS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Marcus Mariota",
+    "team": "TITANS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Ryan Tannehill",
+    "team": "TITANS",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Dwayne Haskins",
+    "team": "WASHINGTON",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Case Keenum",
+    "team": "WASHINGTON",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Colt McCoy",
+    "team": "WASHINGTON",
+    "position": "QB",
+    "year": 2019
+  },
+  {
+    "name": "Kenyan Drake",
+    "team": "CARDINALS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Chase Edmonds",
+    "team": "CARDINALS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "D. J. Foster",
+    "team": "CARDINALS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "David Johnson",
+    "team": "CARDINALS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Alfred Morris",
+    "team": "CARDINALS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Kenjon Barner",
+    "team": "FALCONS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Devonta Freeman",
+    "team": "FALCONS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Brian Hill",
+    "team": "FALCONS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Qadree Ollison",
+    "team": "FALCONS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Ito Smith",
+    "team": "FALCONS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Gus Edwards",
+    "team": "RAVENS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Justice Hill",
+    "team": "RAVENS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Mark Ingram",
+    "team": "RAVENS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Frank Gore",
+    "team": "BILLS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Senorise Perry",
+    "team": "BILLS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Devin Singletary",
+    "team": "BILLS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "T. J. Yeldon",
+    "team": "BILLS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Reggie Bonnafon",
+    "team": "PANTHERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Mike Davis",
+    "team": "PANTHERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Christian McCaffrey",
+    "team": "PANTHERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Jordan Scarlett",
+    "team": "PANTHERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Tarik Cohen",
+    "team": "BEARS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Mike Davis",
+    "team": "BEARS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "David Montgomery",
+    "team": "BEARS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Ryan Nall",
+    "team": "BEARS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Giovani Bernard",
+    "team": "BENGALS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Joe Mixon",
+    "team": "BENGALS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Samaje Perine",
+    "team": "BENGALS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Trayveon Williams",
+    "team": "BENGALS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Brandon Wilson",
+    "team": "BENGALS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Nick Chubb",
+    "team": "BROWNS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Dontrell Hilliard",
+    "team": "BROWNS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Kareem Hunt",
+    "team": "BROWNS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "D'Ernest Johnson",
+    "team": "BROWNS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Jordan Chunn",
+    "team": "COWBOYS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Ezekiel Elliott",
+    "team": "COWBOYS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Tony Pollard",
+    "team": "COWBOYS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Devontae Booker",
+    "team": "BRONCOS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Royce Freeman",
+    "team": "BRONCOS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Phillip Lindsay",
+    "team": "BRONCOS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "C. J. Anderson",
+    "team": "LIONS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Tra Carson",
+    "team": "LIONS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Wes Hills",
+    "team": "LIONS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Kerryon Johnson",
+    "team": "LIONS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Ty Johnson",
+    "team": "LIONS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "J. D. McKissic",
+    "team": "LIONS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Paul Perkins",
+    "team": "LIONS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Bo Scarbrough",
+    "team": "LIONS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Tra Carson",
+    "team": "PACKERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Tyler Ervin",
+    "team": "PACKERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Aaron Jones",
+    "team": "PACKERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Dexter Williams",
+    "team": "PACKERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Jamaal Williams",
+    "team": "PACKERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Cullen Gillaspia",
+    "team": "TEXANS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Buddy Howell",
+    "team": "TEXANS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Carlos Hyde",
+    "team": "TEXANS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Duke Johnson",
+    "team": "TEXANS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Taiwan Jones",
+    "team": "TEXANS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Nyheim Hines",
+    "team": "COLTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Marlon Mack",
+    "team": "COLTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Jordan Wilkins",
+    "team": "COLTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Jonathan Williams",
+    "team": "COLTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Ryquell Armstead",
+    "team": "JAGUARS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Tyler Ervin",
+    "team": "JAGUARS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Leonard Fournette",
+    "team": "JAGUARS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Jeremy McNichols",
+    "team": "JAGUARS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Devine Ozigbo",
+    "team": "JAGUARS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "LeSean McCoy",
+    "team": "CHIEFS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Darwin Thompson",
+    "team": "CHIEFS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Spencer Ware",
+    "team": "CHIEFS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Damien Williams",
+    "team": "CHIEFS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Darrel Williams",
+    "team": "CHIEFS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Austin Ekeler",
+    "team": "CHARGERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Melvin Gordon",
+    "team": "CHARGERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Justin Jackson",
+    "team": "CHARGERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Troymaine Pope",
+    "team": "CHARGERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Malcolm Brown",
+    "team": "RAMS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Todd Gurley",
+    "team": "RAMS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Darrell Henderson",
+    "team": "RAMS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "John Kelly",
+    "team": "RAMS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Kalen Ballage",
+    "team": "DOLPHINS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Kenyan Drake",
+    "team": "DOLPHINS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Myles Gaskin",
+    "team": "DOLPHINS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Patrick Laird",
+    "team": "DOLPHINS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Samaje Perine",
+    "team": "DOLPHINS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "De'Lance Turner",
+    "team": "DOLPHINS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Mark Walton",
+    "team": "DOLPHINS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Ameer Abdullah",
+    "team": "VIKINGS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Mike Boone",
+    "team": "VIKINGS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Dalvin Cook",
+    "team": "VIKINGS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "C. J. Ham",
+    "team": "VIKINGS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Alexander Mattison",
+    "team": "VIKINGS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Brandon Bolden",
+    "team": "PATRIOTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Rex Burkhead",
+    "team": "PATRIOTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Damien Harris",
+    "team": "PATRIOTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Sony Michel",
+    "team": "PATRIOTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "James White",
+    "team": "PATRIOTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Alvin Kamara",
+    "team": "SAINTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Latavius Murray",
+    "team": "SAINTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Dwayne Washington",
+    "team": "SAINTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Javorius Allen",
+    "team": "GIANTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Saquon Barkley",
+    "team": "GIANTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Wayne Gallman",
+    "team": "GIANTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Jon Hilliman",
+    "team": "GIANTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Elijhaa Penny",
+    "team": "GIANTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Austin Walter",
+    "team": "GIANTS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Josh Adams",
+    "team": "JETS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Le'Veon Bell",
+    "team": "JETS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Trent Cannon",
+    "team": "JETS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Ty Montgomery",
+    "team": "JETS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Bilal Powell",
+    "team": "JETS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Josh Jacobs",
+    "team": "RAIDERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Jalen Richard",
+    "team": "RAIDERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "DeAndre Washington",
+    "team": "RAIDERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Jay Ajayi",
+    "team": "EAGLES",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Corey Clement",
+    "team": "EAGLES",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Jordan Howard",
+    "team": "EAGLES",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Miles Sanders",
+    "team": "EAGLES",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Boston Scott",
+    "team": "EAGLES",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Darren Sproles",
+    "team": "EAGLES",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Tony Brooks-James",
+    "team": "STEELERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "James Conner",
+    "team": "STEELERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Trey Edmunds",
+    "team": "STEELERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Jaylen Samuels",
+    "team": "STEELERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Benny Snell",
+    "team": "STEELERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Kerrith Whyte",
+    "team": "STEELERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Matt Breida",
+    "team": "49ERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Tevin Coleman",
+    "team": "49ERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Raheem Mostert",
+    "team": "49ERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Jeff Wilson",
+    "team": "49ERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Chris Carson",
+    "team": "SEAHAWKS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Travis Homer",
+    "team": "SEAHAWKS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Marshawn Lynch",
+    "team": "SEAHAWKS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Rashaad Penny",
+    "team": "SEAHAWKS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "C. J. Prosise",
+    "team": "SEAHAWKS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Robert Turbin",
+    "team": "SEAHAWKS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Peyton Barber",
+    "team": "BUCCANEERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Ronald Jones",
+    "team": "BUCCANEERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "T. J. Logan",
+    "team": "BUCCANEERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Dare Ogunbowale",
+    "team": "BUCCANEERS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Khari Blasingame",
+    "team": "TITANS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Dalyn Dawkins",
+    "team": "TITANS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "David Fluellen",
+    "team": "TITANS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Derrick Henry",
+    "team": "TITANS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Dion Lewis",
+    "team": "TITANS",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Josh Ferguson",
+    "team": "WASHINGTON",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Derrius Guice",
+    "team": "WASHINGTON",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Adrian Peterson",
+    "team": "WASHINGTON",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Craig Reynolds",
+    "team": "WASHINGTON",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Wendell Smallwood",
+    "team": "WASHINGTON",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Chris Thompson",
+    "team": "WASHINGTON",
+    "position": "RB",
+    "year": 2019
+  },
+  {
+    "name": "Dan Arnold",
+    "team": "CARDINALS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Charles Clay",
+    "team": "CARDINALS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Darrell Daniels",
+    "team": "CARDINALS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Maxx Williams",
+    "team": "CARDINALS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jaeden Graham",
+    "team": "FALCONS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Austin Hooper",
+    "team": "FALCONS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Carson Meier",
+    "team": "FALCONS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Luke Stocker",
+    "team": "FALCONS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Mark Andrews",
+    "team": "RAVENS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Nick Boyle",
+    "team": "RAVENS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Hayden Hurst",
+    "team": "RAVENS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Dawson Knox",
+    "team": "BILLS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Tyler Kroft",
+    "team": "BILLS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Lee Smith",
+    "team": "BILLS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Tommy Sweeney",
+    "team": "BILLS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Chris Manhertz",
+    "team": "PANTHERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Greg Olsen",
+    "team": "PANTHERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Ian Thomas",
+    "team": "PANTHERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Ben Braunecker",
+    "team": "BEARS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Trey Burton",
+    "team": "BEARS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "J. P. Holtz",
+    "team": "BEARS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jesper Horsted",
+    "team": "BEARS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Eric Saubert",
+    "team": "BEARS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Adam Shaheen",
+    "team": "BEARS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Cethan Carter",
+    "team": "BENGALS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Tyler Eifert",
+    "team": "BENGALS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Drew Sample",
+    "team": "BENGALS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Mason Schreck",
+    "team": "BENGALS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "C. J. Uzomah",
+    "team": "BENGALS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Pharaoh Brown",
+    "team": "BROWNS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Stephen Carlson",
+    "team": "BROWNS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Demetrius Harris",
+    "team": "BROWNS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "David Njoku",
+    "team": "BROWNS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Ricky Seals-Jones",
+    "team": "BROWNS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Blake Jarwin",
+    "team": "COWBOYS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Dalton Schultz",
+    "team": "COWBOYS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jason Witten",
+    "team": "COWBOYS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Noah Fant",
+    "team": "BRONCOS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Troy Fumagalli",
+    "team": "BRONCOS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jeff Heuerman",
+    "team": "BRONCOS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "T. J. Hockenson",
+    "team": "LIONS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jesse James",
+    "team": "LIONS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Isaac Nauta",
+    "team": "LIONS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Logan Thomas",
+    "team": "LIONS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Evan Baylis",
+    "team": "PACKERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jimmy Graham",
+    "team": "PACKERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Marcedes Lewis",
+    "team": "PACKERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jace Sternberger",
+    "team": "PACKERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Robert Tonyan",
+    "team": "PACKERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jerell Adams",
+    "team": "TEXANS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jordan Akins",
+    "team": "TEXANS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Darren Fells",
+    "team": "TEXANS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jordan Thomas",
+    "team": "TEXANS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Mo Alie-Cox",
+    "team": "COLTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jack Doyle",
+    "team": "COLTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Eric Ebron",
+    "team": "COLTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Matt Lengel",
+    "team": "COLTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Ross Travis",
+    "team": "COLTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Seth Devalve",
+    "team": "JAGUARS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Charles Jones",
+    "team": "JAGUARS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Ben Koyack",
+    "team": "JAGUARS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Nick O'Leary",
+    "team": "JAGUARS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Josh Oliver",
+    "team": "JAGUARS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "James O'Shaughnessy",
+    "team": "JAGUARS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Geoff Swaim",
+    "team": "JAGUARS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Blake Bell",
+    "team": "CHIEFS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Travis Kelce",
+    "team": "CHIEFS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Don Yelder",
+    "team": "CHIEFS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Stephen Anderson",
+    "team": "CHARGERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Sean Culkin",
+    "team": "CHARGERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Virgil Green",
+    "team": "CHARGERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Hunter Henry",
+    "team": "CHARGERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Lance Kendricks",
+    "team": "CHARGERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Kendall Blanton",
+    "team": "RAMS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Gerald Everett",
+    "team": "RAMS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Tyler Higbee",
+    "team": "RAMS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Johnny Mundt",
+    "team": "RAMS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Mike Gesicki",
+    "team": "DOLPHINS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Nick O'Leary",
+    "team": "DOLPHINS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Durham Smythe",
+    "team": "DOLPHINS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Clive Walford",
+    "team": "DOLPHINS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Tyler Conklin",
+    "team": "VIKINGS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Brandon Dillon",
+    "team": "VIKINGS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Kyle Rudolph",
+    "team": "VIKINGS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Irv Smith",
+    "team": "VIKINGS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Ryan Izzo",
+    "team": "PATRIOTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Matt LaCosse",
+    "team": "PATRIOTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Eric Tomlinson",
+    "team": "PATRIOTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Ben Watson",
+    "team": "PATRIOTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Dan Arnold",
+    "team": "SAINTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jared Cook",
+    "team": "SAINTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Josh Hill",
+    "team": "SAINTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jason Vander Laan",
+    "team": "SAINTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Garrett Dickerson",
+    "team": "GIANTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Rhett Ellison",
+    "team": "GIANTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Evan Engram",
+    "team": "GIANTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Scott Simonson",
+    "team": "GIANTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Kaden Smith",
+    "team": "GIANTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Eric Tomlinson",
+    "team": "GIANTS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Daniel Brown",
+    "team": "JETS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Ryan Griffin",
+    "team": "JETS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Chris Herndon",
+    "team": "JETS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Trevon Wesco",
+    "team": "JETS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Derek Carrier",
+    "team": "RAIDERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Foster Moreau",
+    "team": "RAIDERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Eric Tomlinson",
+    "team": "RAIDERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Alex Ellis",
+    "team": "EAGLES",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Zach Ertz",
+    "team": "EAGLES",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Dallas Goedert",
+    "team": "EAGLES",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Josh Perkins",
+    "team": "EAGLES",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Richard Rodgers",
+    "team": "EAGLES",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Zach Gentry",
+    "team": "STEELERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Xavier Grimble",
+    "team": "STEELERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Vance McDonald",
+    "team": "STEELERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Nick Vannett",
+    "team": "STEELERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Garrett Celek",
+    "team": "49ERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Ross Dwelley",
+    "team": "49ERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "George Kittle",
+    "team": "49ERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Kyle Nelson",
+    "team": "49ERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Levine Toilolo",
+    "team": "49ERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Will Dissly",
+    "team": "SEAHAWKS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jacob Hollister",
+    "team": "SEAHAWKS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Tyrone Swoopes",
+    "team": "SEAHAWKS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Nick Vannett",
+    "team": "SEAHAWKS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Luke Willson",
+    "team": "SEAHAWKS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Antony Auclair",
+    "team": "BUCCANEERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Cameron Brate",
+    "team": "BUCCANEERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "O. J. Howard",
+    "team": "BUCCANEERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Tanner Hudson",
+    "team": "BUCCANEERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Codey McElroy",
+    "team": "BUCCANEERS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Anthony Firkser",
+    "team": "TITANS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "MyCole Pruitt",
+    "team": "TITANS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jonnu Smith",
+    "team": "TITANS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Delanie Walker",
+    "team": "TITANS",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jerome Cunningham",
+    "team": "WASHINGTON",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Vernon Davis",
+    "team": "WASHINGTON",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Hale Hentges",
+    "team": "WASHINGTON",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "J. P. Holtz",
+    "team": "WASHINGTON",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Jeremy Sprinkle",
+    "team": "WASHINGTON",
+    "position": "TE",
+    "year": 2019
+  },
+  {
+    "name": "Damiere Byrd",
+    "team": "CARDINALS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Pharoh Cooper",
+    "team": "CARDINALS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Michael Crabtree",
+    "team": "CARDINALS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Larry Fitzgerald",
+    "team": "CARDINALS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Andy Isabella",
+    "team": "CARDINALS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Keesean Johnson",
+    "team": "CARDINALS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Christian Kirk",
+    "team": "CARDINALS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Trent Sherfield",
+    "team": "CARDINALS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Christian Blake",
+    "team": "FALCONS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Russell Gage",
+    "team": "FALCONS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Justin Hardy",
+    "team": "FALCONS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Julio Jones",
+    "team": "FALCONS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Calvin Ridley",
+    "team": "FALCONS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Mohamed Sanu",
+    "team": "FALCONS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Olamide Zaccheaus",
+    "team": "FALCONS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Miles Boykin",
+    "team": "RAVENS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Marquise Brown",
+    "team": "RAVENS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Chris Moore",
+    "team": "RAVENS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Seth Roberts",
+    "team": "RAVENS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Jaleel Scott",
+    "team": "RAVENS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Willie Snead",
+    "team": "RAVENS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "De'Anthony Thomas",
+    "team": "RAVENS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Cole Beasley",
+    "team": "BILLS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "John Brown",
+    "team": "BILLS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Robert Foster",
+    "team": "BILLS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Zay Jones",
+    "team": "BILLS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Isaiah McKenzie",
+    "team": "BILLS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Andre Roberts",
+    "team": "BILLS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Duke Williams",
+    "team": "BILLS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Greg Dortch",
+    "team": "PANTHERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Chris Hogan",
+    "team": "PANTHERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Ray-Ray McCloud",
+    "team": "PANTHERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Donte Moncrief",
+    "team": "PANTHERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "D. J. Moore",
+    "team": "PANTHERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Curtis Samuel",
+    "team": "PANTHERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "DeAndrew White",
+    "team": "PANTHERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Jarius Wright",
+    "team": "PANTHERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Brandon Zylstra",
+    "team": "PANTHERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Taylor Gabriel",
+    "team": "BEARS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Anthony Miller",
+    "team": "BEARS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Cordarrelle Patterson",
+    "team": "BEARS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Riley Ridley",
+    "team": "BEARS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Allen Robinson",
+    "team": "BEARS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Javon Wims",
+    "team": "BEARS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Tyler Boyd",
+    "team": "BENGALS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Pharoh Cooper",
+    "team": "BENGALS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Alex Erickson",
+    "team": "BENGALS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Trenton Irwin",
+    "team": "BENGALS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Stanley Morgan",
+    "team": "BENGALS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "John Ross",
+    "team": "BENGALS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Auden Tate",
+    "team": "BENGALS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Damion Willis",
+    "team": "BENGALS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Odell Beckham",
+    "team": "BROWNS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Antonio Callaway",
+    "team": "BROWNS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Rachard Higgins",
+    "team": "BROWNS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "KhaDarel Hodge",
+    "team": "BROWNS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Jarvis Landry",
+    "team": "BROWNS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Damion Ratley",
+    "team": "BROWNS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Taywan Taylor",
+    "team": "BROWNS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Tavon Austin",
+    "team": "COWBOYS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Ventell Bryant",
+    "team": "COWBOYS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Randall Cobb",
+    "team": "COWBOYS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Amari Cooper",
+    "team": "COWBOYS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Michael Gallup",
+    "team": "COWBOYS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Devin Smith",
+    "team": "COWBOYS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Ced (Cedrick) Wilson",
+    "team": "COWBOYS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Fred Brown",
+    "team": "BRONCOS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "River Cracraft",
+    "team": "BRONCOS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "DaeSean Hamilton",
+    "team": "BRONCOS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Tim Patrick",
+    "team": "BRONCOS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Emmanuel Sanders",
+    "team": "BRONCOS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Diontae Spencer",
+    "team": "BRONCOS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Courtland Sutton",
+    "team": "BRONCOS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Juwann Winfree",
+    "team": "BRONCOS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Danny Amendola",
+    "team": "LIONS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Travis Fulgham",
+    "team": "LIONS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Kenny Golladay",
+    "team": "LIONS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Marvin Hall",
+    "team": "LIONS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Marvin Jones",
+    "team": "LIONS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Chris Lacy",
+    "team": "LIONS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Davante Adams",
+    "team": "PACKERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Geronimo Allison",
+    "team": "PACKERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Trevor Davis",
+    "team": "PACKERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Jake Kumerow",
+    "team": "PACKERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Allen Lazard",
+    "team": "PACKERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Darrius Shepherd",
+    "team": "PACKERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Marquez Valdes-Scantling",
+    "team": "PACKERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "DeAndre Carter",
+    "team": "TEXANS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Keke Coutee",
+    "team": "TEXANS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Will Fuller",
+    "team": "TEXANS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "DeAndre Hopkins",
+    "team": "TEXANS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Steven Mitchell",
+    "team": "TEXANS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Kenny Stills",
+    "team": "TEXANS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Deon Cain",
+    "team": "COLTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Parris Campbell",
+    "team": "COLTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Ashton Dulin",
+    "team": "COLTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Devin Funchess",
+    "team": "COLTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "T. Y. Hilton",
+    "team": "COLTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Dontrelle Inman",
+    "team": "COLTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Marcus Johnson",
+    "team": "COLTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Zach Pascal",
+    "team": "COLTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Chester Rogers",
+    "team": "COLTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Chad Williams",
+    "team": "COLTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "C. J. Board",
+    "team": "JAGUARS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "D. J. Chark",
+    "team": "JAGUARS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Keelan Cole",
+    "team": "JAGUARS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Chris Conley",
+    "team": "JAGUARS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Marqise Lee",
+    "team": "JAGUARS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Michael Walker",
+    "team": "JAGUARS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Dede Westbrook",
+    "team": "JAGUARS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Gehrig Dieter",
+    "team": "CHIEFS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Mecole Hardman",
+    "team": "CHIEFS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Tyreek Hill",
+    "team": "CHIEFS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Byron Pringle",
+    "team": "CHIEFS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Demarcus Robinson",
+    "team": "CHIEFS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "De'Anthony Thomas",
+    "team": "CHIEFS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Sammy Watkins",
+    "team": "CHIEFS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Keenan Allen",
+    "team": "CHARGERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Travis Benjamin",
+    "team": "CHARGERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Geremy Davis",
+    "team": "CHARGERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Jalen Guyton",
+    "team": "CHARGERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Dontrelle Inman",
+    "team": "CHARGERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Jason Moore",
+    "team": "CHARGERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Andre Patton",
+    "team": "CHARGERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Mike Williams",
+    "team": "CHARGERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Brandin Cooks",
+    "team": "RAMS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Cooper Kupp",
+    "team": "RAMS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "JoJo Natson",
+    "team": "RAMS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Josh Reynolds",
+    "team": "RAMS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Mike Thomas",
+    "team": "RAMS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Nsimba Webster",
+    "team": "RAMS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Robert Woods",
+    "team": "RAMS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Trevor Davis",
+    "team": "DOLPHINS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Isaiah Ford",
+    "team": "DOLPHINS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Jakeem Grant",
+    "team": "DOLPHINS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Mack Hollins",
+    "team": "DOLPHINS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Allen Hurns",
+    "team": "DOLPHINS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Gary Jennings",
+    "team": "DOLPHINS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "DeVante Parker",
+    "team": "DOLPHINS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Preston Williams",
+    "team": "DOLPHINS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Albert Wilson",
+    "team": "DOLPHINS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Chad Beebe",
+    "team": "VIKINGS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Davion Davis",
+    "team": "VIKINGS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Stefon Diggs",
+    "team": "VIKINGS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Josh Doctson",
+    "team": "VIKINGS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Alexander Hollins",
+    "team": "VIKINGS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Bisi (Olabisi) Johnson",
+    "team": "VIKINGS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Adam Thielen",
+    "team": "VIKINGS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Laquon Treadwell",
+    "team": "VIKINGS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Antonio Brown",
+    "team": "PATRIOTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Phillip Dorsett",
+    "team": "PATRIOTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Julian Edelman",
+    "team": "PATRIOTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Josh Gordon",
+    "team": "PATRIOTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "N'Keal Harry",
+    "team": "PATRIOTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Jakobi Meyers",
+    "team": "PATRIOTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Gunner Olszewski",
+    "team": "PATRIOTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Mohamed Sanu",
+    "team": "PATRIOTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Matthew Slater",
+    "team": "PATRIOTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Austin Carr",
+    "team": "SAINTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Ted Ginn",
+    "team": "SAINTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Deonte Harris",
+    "team": "SAINTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Krishawn Hogan",
+    "team": "SAINTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Lil'Jordan Humphrey",
+    "team": "SAINTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Keith Kirkwood",
+    "team": "SAINTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Tre'Quan Smith",
+    "team": "SAINTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Michael Thomas",
+    "team": "SAINTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Cody Core",
+    "team": "GIANTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Bennie Fowler",
+    "team": "GIANTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "T. J. Jones",
+    "team": "GIANTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Cody Latimer",
+    "team": "GIANTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Da'Mari Scott",
+    "team": "GIANTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Russell Shepard",
+    "team": "GIANTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Sterling Shepard",
+    "team": "GIANTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Darius Slayton",
+    "team": "GIANTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Golden Tate",
+    "team": "GIANTS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Robby Anderson",
+    "team": "JETS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Josh Bellamy",
+    "team": "JETS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Braxton Berrios",
+    "team": "JETS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Jamison Crowder",
+    "team": "JETS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Quincy Enunwa",
+    "team": "JETS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Josh Malone",
+    "team": "JETS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Jeff Smith",
+    "team": "JETS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Vyncint Smith",
+    "team": "JETS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Demaryius Thomas",
+    "team": "JETS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Marcell Ateman",
+    "team": "RAIDERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Trevor Davis",
+    "team": "RAIDERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Keelan Doss",
+    "team": "RAIDERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Rico Gafford",
+    "team": "RAIDERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Ryan Grant",
+    "team": "RAIDERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Dwayne Harris",
+    "team": "RAIDERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Zay Jones",
+    "team": "RAIDERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "J. J. Nelson",
+    "team": "RAIDERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Hunter Renfrow",
+    "team": "RAIDERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Darren Waller",
+    "team": "RAIDERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Tyrell Williams",
+    "team": "RAIDERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Nelson Agholor",
+    "team": "EAGLES",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "J. J. Arcega-Whiteside",
+    "team": "EAGLES",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Deontay Burnett",
+    "team": "EAGLES",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Robert Davis",
+    "team": "EAGLES",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Mack Hollins",
+    "team": "EAGLES",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "DeSean Jackson",
+    "team": "EAGLES",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Alshon Jeffery",
+    "team": "EAGLES",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Jordan Matthews",
+    "team": "EAGLES",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Greg Ward",
+    "team": "EAGLES",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Deon Cain",
+    "team": "STEELERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Johnny Holton",
+    "team": "STEELERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Diontae Johnson",
+    "team": "STEELERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Tevin Jones",
+    "team": "STEELERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Donte Moncrief",
+    "team": "STEELERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "JuJu Smith-Schuster",
+    "team": "STEELERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Ryan Switzer",
+    "team": "STEELERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "James Washington",
+    "team": "STEELERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Kendrick Bourne",
+    "team": "49ERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Marquise Goodwin",
+    "team": "49ERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Richie James",
+    "team": "49ERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Jordan Matthews",
+    "team": "49ERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Dante Pettis",
+    "team": "49ERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Deebo Samuel",
+    "team": "49ERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Emmanuel Sanders",
+    "team": "49ERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Jaron Brown",
+    "team": "SEAHAWKS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Josh Gordon",
+    "team": "SEAHAWKS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Tyler Lockett",
+    "team": "SEAHAWKS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "D. K. Metcalf",
+    "team": "SEAHAWKS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "David Moore",
+    "team": "SEAHAWKS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Malik Turner",
+    "team": "SEAHAWKS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "John Ursua",
+    "team": "SEAHAWKS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Mike Evans",
+    "team": "BUCCANEERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "John Franklin",
+    "team": "BUCCANEERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Chris Godwin",
+    "team": "BUCCANEERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Cyril Grayson",
+    "team": "BUCCANEERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Ishmael Hyman",
+    "team": "BUCCANEERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Jaydon Mickens",
+    "team": "BUCCANEERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Scott Miller",
+    "team": "BUCCANEERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Breshad Perriman",
+    "team": "BUCCANEERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Spencer Schnell",
+    "team": "BUCCANEERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Justin Watson",
+    "team": "BUCCANEERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Bobo Wilson",
+    "team": "BUCCANEERS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "A. J. Brown",
+    "team": "TITANS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Corey Davis",
+    "team": "TITANS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Rashard Davis",
+    "team": "TITANS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Cody Hollister",
+    "team": "TITANS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Adam Humphries",
+    "team": "TITANS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Darius Jennings",
+    "team": "TITANS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Kalif Raymond",
+    "team": "TITANS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Tajae Sharpe",
+    "team": "TITANS",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Robert Davis",
+    "team": "WASHINGTON",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Kelvin Harmon",
+    "team": "WASHINGTON",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Darvin Kidsy",
+    "team": "WASHINGTON",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Terry McLaurin",
+    "team": "WASHINGTON",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Trey Quinn",
+    "team": "WASHINGTON",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Paul Richardson",
+    "team": "WASHINGTON",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Cam Sims",
+    "team": "WASHINGTON",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Steven Sims",
+    "team": "WASHINGTON",
+    "position": "WR",
+    "year": 2019
+  },
+  {
+    "name": "Jester Weah",
+    "team": "WASHINGTON",
+    "position": "WR",
+    "year": 2019
+  }
+]

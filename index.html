@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>NFL Skill Player Trivia</title>
+<style>
+body { font-family: Arial, sans-serif; background: #0d1b2a; color: #fff; display: flex; justify-content: center; padding: 40px; }
+.container { background: #1b263b; padding: 30px; border-radius: 16px; width: 100%; max-width: 700px; text-align: center; box-shadow: 0 8px 20px rgba(0,0,0,0.5); }
+h1 { font-size: 2em; margin-bottom: 20px; color: #e0e1dd; }
+.wheel-display { display: flex; justify-content: space-around; margin: 20px 0; }
+.category-box { background: #415a77; padding: 20px; border-radius: 12px; min-width: 130px; font-weight: bold; font-size: 1.2em; letter-spacing: 1px; box-shadow: inset 0 4px 6px rgba(0,0,0,0.3); transition: transform 0.3s; overflow: hidden; height: 60px; display: flex; align-items: center; justify-content: center; }
+.slot-spin { animation: spin 0.08s infinite linear; }
+@keyframes spin { 0% { transform: translateY(0%); } 100% { transform: translateY(-100%); } }
+button { padding: 12px 25px; margin: 10px; border: none; border-radius: 8px; font-size: 16px; cursor: pointer; font-weight: bold; transition: 0.2s; }
+button:disabled { opacity: 0.5; cursor: not-allowed; }
+.spin-btn { background: #28a745; color: #fff; }
+.spin-btn:hover:not(:disabled) { background: #38b44a; }
+.submit-btn { background: #007bff; color: #fff; }
+.submit-btn:hover:not(:disabled) { background: #338fff; }
+input { padding: 10px; font-size: 16px; width: 65%; border-radius: 6px; border: none; margin-right: 5px; }
+#result { font-size: 22px; margin-top: 15px; height: 28px; }
+#answers { margin-top: 10px; font-size: 14px; line-height: 1.4; }
+#score, #timer { margin-top: 12px; font-size: 18px; }
+.correct { color: #4caf50; }
+.wrong { color: #ff5252; }
+</style>
+</head>
+<body>
+
+<div class="container">
+<h1>NFL Skill Player Trivia</h1>
+
+<div class="wheel-display">
+  <div id="teamBox" class="category-box">Team</div>
+  <div id="positionBox" class="category-box">Position</div>
+  <div id="yearBox" class="category-box">Year</div>
+</div>
+
+<button class="spin-btn" id="spinButton">Spin</button>
+<br><br>
+<input type="text" id="guess" placeholder="Enter player name">
+<button class="submit-btn" id="submitButton">Submit</button>
+
+<div id="timer"></div>
+<div id="result"></div>
+<div id="answers"></div>
+<div id="score">Score: 0</div>
+</div>
+
+<script>
+// ---------- Minimal dataset for testing ----------
+let players = [
+  { "name": "Tom Brady", "team": "Patriots", "position": "QB", "year": 2019 },
+  { "name": "Aaron Rodgers", "team": "Packers", "position": "QB", "year": 2019 },
+  { "name": "Rob Gronkowski", "team": "Patriots", "position": "TE", "year": 2019 }
+];
+
+const teamBox = document.getElementById("teamBox");
+const positionBox = document.getElementById("positionBox");
+const yearBox = document.getElementById("yearBox");
+const resultDiv = document.getElementById("result");
+const answersDiv = document.getElementById("answers");
+const scoreDiv = document.getElementById("score");
+const timerDiv = document.getElementById("timer");
+const guessInput = document.getElementById("guess");
+const spinButton = document.getElementById("spinButton");
+const submitButton = document.getElementById("submitButton");
+
+let validAnswers = [];
+let score = 0;
+let timerInterval;
+let timeLeft = 30;
+let gameActive = false;
+
+// ---------- Connect buttons ----------
+spinButton.addEventListener('click', spin);
+submitButton.addEventListener('click', checkAnswer);
+
+// ---------- Spin function ----------
+function spin() {
+  if(players.length === 0) return;
+  if(gameActive){ clearInterval(timerInterval); resetTurn(); }
+
+  gameActive = true;
+  resultDiv.innerHTML = ""; answersDiv.innerHTML = ""; guessInput.value = ""; timerDiv.innerHTML = "";
+
+  // Start slot animation
+  teamBox.classList.add("slot-spin");
+  positionBox.classList.add("slot-spin");
+  yearBox.classList.add("slot-spin");
+
+  const teams = [...new Set(players.map(p=>p.team))];
+  const years = [...new Set(players.map(p=>p.year))];
+  const positions = [...new Set(players.map(p=>p.position))];
+
+  const spinDuration = 1500;
+  const spinIntervalTime = 80;
+
+  const spinInterval = setInterval(()=>{
+    teamBox.innerText = teams[Math.floor(Math.random()*teams.length)];
+    positionBox.innerText = positions[Math.floor(Math.random()*positions.length)];
+    yearBox.innerText = years[Math.floor(Math.random()*years.length)];
+  }, spinIntervalTime);
+
+  setTimeout(()=>{
+    clearInterval(spinInterval);
+
+    const chosenPlayer = players[Math.floor(Math.random()*players.length)];
+    teamBox.innerText = chosenPlayer.team;
+    positionBox.innerText = chosenPlayer.position;
+    yearBox.innerText = chosenPlayer.year;
+
+    validAnswers = players.filter(p=>
+      p.team === chosenPlayer.team &&
+      p.position === chosenPlayer.position &&
+      p.year === chosenPlayer.year
+    );
+
+    teamBox.classList.remove("slot-spin");
+    positionBox.classList.remove("slot-spin");
+    yearBox.classList.remove("slot-spin");
+
+    gameActive = true;
+    startTimer();
+  }, spinDuration);
+}
+
+// ---------- Timer ----------
+function startTimer(){
+  timeLeft = 30;
+  timerDiv.innerHTML = `⏳ Time Left: ${timeLeft}s`;
+
+  timerInterval = setInterval(()=>{
+    timeLeft--;
+    timerDiv.innerHTML = `⏳ Time Left: ${timeLeft}s`;
+    if(timeLeft <= 0){ clearInterval(timerInterval); revealAnswer(false); }
+  },1000);
+}
+
+// ---------- Check answer ----------
+function checkAnswer(){
+  if(!gameActive) return;
+  const guess = guessInput.value.trim().toLowerCase();
+  if(!guess) return;
+
+  clearInterval(timerInterval);
+  const correct = validAnswers.some(p => p.name.toLowerCase() === guess);
+  revealAnswer(correct);
+}
+
+// ---------- Reveal answer ----------
+function revealAnswer(correct){
+  gameActive = false;
+  resultDiv.innerHTML = correct ? `<span class="correct">✅ Correct!</span>` : `<span class="wrong">❌ Wrong!</span>`;
+  if(correct) score++;
+  scoreDiv.innerHTML = `Score: ${score}`;
+  answersDiv.innerHTML = "<strong>Possible Answers:</strong><br>" + validAnswers.map(p=>p.name).join("<br>");
+}
+
+// ---------- Reset ----------
+function resetTurn(){
+  clearInterval(timerInterval);
+  validAnswers = [];
+  timerDiv.innerHTML = "";
+  resultDiv.innerHTML = "";
+  answersDiv.innerHTML = "";
+  guessInput.value = "";
+  gameActive = false;
+}
+</script>
+</body>
+</html>
