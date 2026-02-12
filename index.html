@@ -50,6 +50,19 @@ input { padding: 10px; font-size: 16px; width: 65%; border-radius: 6px; border: 
 <script>
 // ---------- Minimal dataset for testing ----------
 let players = [];
+spinButton.disabled = true;  // Disable spin until JSON loads
+
+fetch('players.json')
+  .then(response => response.json())
+  .then(data => {
+      players = data;  // load your full dataset
+      console.log("Players loaded:", players.length);
+      spinButton.disabled = false;  // enable spin now that data is ready
+  })
+  .catch(err => {
+      console.error("Failed to load players.json:", err);
+      alert("Failed to load player data. Check that players.json is in the root folder.");
+  });
 
 const teamBox = document.getElementById("teamBox");
 const positionBox = document.getElementById("positionBox");
@@ -166,4 +179,5 @@ function resetTurn(){
 </script>
 </body>
 </html>
+
 
