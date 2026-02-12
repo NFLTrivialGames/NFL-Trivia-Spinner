@@ -48,21 +48,15 @@ input { padding: 10px; font-size: 16px; width: 65%; border-radius: 6px; border: 
 </div>
 
 <script>
-// ---------- Minimal dataset for testing ----------
-let players = [];
-spinButton.disabled = true;  // Disable spin until JSON loads
-
-fetch('players.json')
-  .then(response => response.json())
-  .then(data => {
-      players = data;  // load your full dataset
-      console.log("Players loaded:", players.length);
-      spinButton.disabled = false;  // enable spin now that data is ready
-  })
-  .catch(err => {
-      console.error("Failed to load players.json:", err);
-      alert("Failed to load player data. Check that players.json is in the root folder.");
-  });
+// -----------------------
+// Variables
+// -----------------------
+let players = [];          // full dataset loaded from JSON
+let validAnswers = [];
+let score = 0;
+let timerInterval;
+let timeLeft = 30;
+let gameActive = false;
 
 const teamBox = document.getElementById("teamBox");
 const positionBox = document.getElementById("positionBox");
@@ -75,17 +69,32 @@ const guessInput = document.getElementById("guess");
 const spinButton = document.getElementById("spinButton");
 const submitButton = document.getElementById("submitButton");
 
-let validAnswers = [];
-let score = 0;
-let timerInterval;
-let timeLeft = 30;
-let gameActive = false;
+// -----------------------
+// Load JSON dynamically
+// -----------------------
+spinButton.disabled = true;
 
-// ---------- Connect buttons ----------
+fetch('players.json')
+  .then(response => response.json())
+  .then(data => {
+      players = data;
+      console.log("Players loaded:", players.length);
+      spinButton.disabled = false;
+  })
+  .catch(err => {
+      console.error("Failed to load players.json:", err);
+      alert("Failed to load players.json. Make sure it is in the root folder with index.html");
+  });
+
+// -----------------------
+// Connect buttons
+// -----------------------
 spinButton.addEventListener('click', spin);
 submitButton.addEventListener('click', checkAnswer);
 
-// ---------- Spin function ----------
+// -----------------------
+// Spin function
+// -----------------------
 function spin() {
   if(players.length === 0) return;
   if(gameActive){ clearInterval(timerInterval); resetTurn(); }
@@ -102,7 +111,7 @@ function spin() {
   const years = [...new Set(players.map(p=>p.year))];
   const positions = [...new Set(players.map(p=>p.position))];
 
-  const spinDuration = 1500;
+  const spinDuration = 1800;
   const spinIntervalTime = 80;
 
   const spinInterval = setInterval(()=>{
@@ -134,7 +143,9 @@ function spin() {
   }, spinDuration);
 }
 
-// ---------- Timer ----------
+// -----------------------
+// Timer
+// -----------------------
 function startTimer(){
   timeLeft = 30;
   timerDiv.innerHTML = `⏳ Time Left: ${timeLeft}s`;
@@ -146,7 +157,9 @@ function startTimer(){
   },1000);
 }
 
-// ---------- Check answer ----------
+// -----------------------
+// Check answer
+// -----------------------
 function checkAnswer(){
   if(!gameActive) return;
   const guess = guessInput.value.trim().toLowerCase();
@@ -157,7 +170,9 @@ function checkAnswer(){
   revealAnswer(correct);
 }
 
-// ---------- Reveal answer ----------
+// -----------------------
+// Reveal answer
+// -----------------------
 function revealAnswer(correct){
   gameActive = false;
   resultDiv.innerHTML = correct ? `<span class="correct">✅ Correct!</span>` : `<span class="wrong">❌ Wrong!</span>`;
@@ -166,7 +181,9 @@ function revealAnswer(correct){
   answersDiv.innerHTML = "<strong>Possible Answers:</strong><br>" + validAnswers.map(p=>p.name).join("<br>");
 }
 
-// ---------- Reset ----------
+// -----------------------
+// Reset turn
+// -----------------------
 function resetTurn(){
   clearInterval(timerInterval);
   validAnswers = [];
@@ -179,5 +196,6 @@ function resetTurn(){
 </script>
 </body>
 </html>
+
 
 
